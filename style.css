@@ -1,46 +1,75 @@
-/**********inicio***********/
-body {
-    background-color: #111820;
-    color: #eaeaea;
+/********** inicio ***********/
+* {
     margin: 0;
     padding: 0;
+    box-sizing: border-box; /* Incluye padding y borde en el tamaño total del elemento */
 }
+
+body {
+    background-color: #f0f4f8; 
+    color: #333333; 
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif; 
+}
+
 header {
-    background-color: #1e2731;
-    color: #eaeaea;
+    background-color: #000000; 
+    color: #ffffff; 
+    padding: 20px; 
+    text-align: center; 
+}
+
+nav ul {
+    padding: 0; 
+}
+
+nav ul.menu {
+    list-style: none; 
+}
+
+nav ul.menu li {
+    display: inline; 
+    margin-right: 15px; 
+}
+
+nav ul.menu li a {
+    color: #ffffff; 
+    text-decoration: none; 
+}
+
+nav ul.menu li a:hover {
+    text-decoration: underline; 
+}
+
+main {
     padding: 20px; 
 }
-main > section > div > img {
-    height: 300px;
-    width: 300px;
+
+.producto-destacado, .todos-los-productos {
+    margin-bottom: 20px; 
 }
+
+#kukri {
+ height: 100px;
+}
+
+#kerambit {
+ height: 100px;
+}
+
 footer {
-    background-color: rgba(27, 27, 27, 0.8);
-    color: #ffffff;
+    background-color: #262b2e; 
+    color: #ffffff; 
+    padding: 10px; 
+    text-align: center; 
 }
-hr + footer {
-    font-family:Arial, Helvetica, sans-serif;
+
+footer ul {
+    padding: 0; 
 }
-.menu {
-    list-style: none;
+
+footer ul li {
+    display: inline; 
+    margin-right: 15px; 
 }
-.producto-destacado > h2 {
-    font-family: Arial, Helvetica, sans-serif;
-    color: #eaeaea;
-    background-color: #1e2731;
-    padding: 15px;
-}
-#kerambit1-img {
-    height: 200px;
-    width: 150px;
-}
-#kukribronce-img {
-    height: 200px;
-    width: 150px;
-}
-.todos-los-productos > h2 {
-    font-family: Arial, Helvetica, sans-serif;
-    color: #eaeaea;
-    background-color: #1e2731;
-    padding: 15px;
-}
+
