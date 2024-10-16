@@ -1,0 +1,33 @@
+body {
+    font-family:"Ironwood", Arial, sans-serif ;
+    background-color: #111820;
+    color: #eaeaea;
+}
+header {
+    background-color: #1e2731;
+    color: #eaeaea;
+}
+section {
+    padding: 20px;
+}
+.restauracion > div > p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(250, 244, 240);
+    border: 15px solid #1e2731;
+}
+.simonaggio > h2 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: #1e2731;
+    padding: 20px;
+}
+.simonaggio > p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: yellowgreen;
+}
+hr + footer {
+    font-family: cursive;
+}
+footer {
+    background-color: rgba(27, 27, 27, 0.8);
+    color: #ffffff;
+}

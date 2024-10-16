@@ -1,0 +1,32 @@
+body {
+    font-family:"Ironwood", Arial, sans-serif ;
+    background-color: #111820;
+    color: #eaeaea;
+}
+header {
+    background-color: #1e2731;
+    color: #eaeaea;
+}
+section {
+    padding: 20px;
+}
+h1 ~ p {
+    color:#ffffff;
+}
+article > div > p {
+    color: rgb(205, 143, 50);
+}
+.hoja {
+    height: 300px;
+    width: 400px;
+}
+.kerambit1 {
+    width: 200px;
+}
+hr + footer {
+    font-family: cursive;
+}
+footer {
+    background-color: rgba(27, 27, 27, 0.8);
+    color: #ffffff;
+}

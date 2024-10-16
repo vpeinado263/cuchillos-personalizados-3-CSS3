@@ -1,0 +1,53 @@
+body {
+    background-color: #111820;
+    color: #eaeaea;
+    margin: 0;
+    padding: 0;
+}
+header {
+    background-color: #1e2731;
+    color: #eaeaea;
+    padding: 20px; 
+}
+main > section > div > img {
+    height: 300px;
+    width: 300px;
+}
+footer {
+    background-color: rgba(27, 27, 27, 0.8);
+    color: #ffffff;
+}
+section {
+    padding: 20px;
+}
+.modelos > div > table {
+    color: rgb(255, 162, 0);
+}
+table {
+    border : 20px solid rgb(36, 35, 35)
+}
+#Kukri {
+    height: 200px;
+    width: 350px;
+}
+#Kerambit2 {
+    height: 200px;
+    width: 350px;
+}
+#Gut-Knife {
+    height: 200px;
+    width: 350px;
+}
+#Daga {
+    height: 200px;
+    width: 
+    350;
+}
+#Estilete {
+    height: 200px;
+    width: 350px;
+}
+#Tanto {
+    height: 200px;
+    width: 350px;
+}

@@ -1,0 +1,46 @@
+/**********inicio***********/
+body {
+    background-color: #111820;
+    color: #eaeaea;
+    margin: 0;
+    padding: 0;
+}
+header {
+    background-color: #1e2731;
+    color: #eaeaea;
+    padding: 20px; 
+}
+main > section > div > img {
+    height: 300px;
+    width: 300px;
+}
+footer {
+    background-color: rgba(27, 27, 27, 0.8);
+    color: #ffffff;
+}
+hr + footer {
+    font-family:Arial, Helvetica, sans-serif;
+}
+.menu {
+    list-style: none;
+}
+.producto-destacado > h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #eaeaea;
+    background-color: #1e2731;
+    padding: 15px;
+}
+#kerambit1-img {
+    height: 200px;
+    width: 150px;
+}
+#kukribronce-img {
+    height: 200px;
+    width: 150px;
+}
+.todos-los-productos > h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #eaeaea;
+    background-color: #1e2731;
+    padding: 15px;
+}

@@ -1,0 +1,37 @@
+body {
+    font-family:"Ironwood", Arial, sans-serif ;
+    margin: 0;
+    padding: 0;
+    background-color: #111820;
+    color: #eaeaea;
+}
+header {
+    background-color: #1e2731;
+    color: #eaeaea;
+    padding: 20px; 
+}
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+}
+h2 {
+    font-family:Georgia, 'Times New Roman', Times, serifs;
+}
+input[type="text"] {
+    color:#111820;
+}
+input[type="password"] {
+    color: #111820;
+}
+input[type="tel"] {
+    color: #911313;
+}
+section {
+    padding: 20px;
+}
+hr + footer {
+    font-family: cursive;
+}
+footer {
+    background-color: rgba(27, 27, 27, 0.8);
+    color: #ffffff;
+}

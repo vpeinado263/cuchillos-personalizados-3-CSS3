@@ -1,0 +1,20 @@
+body {
+    font-family:"Ironwood", Arial, sans-serif ;
+    background-color: #111820;
+    color: #eaeaea;
+}
+header {
+    background-color: #1e2731;
+    color: #eaeaea;
+}
+hr + footer {
+    font-family: cursive;
+}
+#herrero {
+    height: 400px;
+    width: 400px;
+}
+footer {
+    background-color: rgba(27, 27, 27, 0.8);
+    color: #ffffff;
+}
