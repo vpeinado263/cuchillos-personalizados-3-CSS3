@@ -15,7 +15,7 @@ El objetivo de esta tarea fue:
 - **CSS**: Estilos aplicados a los elementos HTML.
 - **Fuentes de Google**: Para seleccionar y aplicar diferentes fuentes tipográficas.
 - **Paleta de colores**: Utilizada para definir el diseño visual del sitio.
-- 
+  
 ## Desafíos y Aprendizajes
 ### 1. Problemas con las rutas de archivos
 Tuve dificultades al organizar las rutas de mis imágenes y hojas CSS. Asegurarme de que las rutas fueran relativas al archivo HTML solucionó el problema.
