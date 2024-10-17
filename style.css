@@ -5,17 +5,18 @@
     box-sizing: border-box; }
 
 body {
-    background-color: rgb(215, 205, 199); 
+    background-color: rgb(255, 252, 251); 
     color: #752424; 
     margin: 0;
     font-family: Arial, Helvetica, sans-serif; 
+  
 }
 
 header {
     background-color: rgb(79, 86, 94); 
     color: #ffffff; 
     padding: 20px; 
-    text-align: center; 
+    
 }
 
 nav ul {
@@ -46,21 +47,22 @@ main {
 
 .producto-destacado, .todos-los-productos {
     margin-bottom: 20px; 
+    text-align: center;
 }
 
 #kukri {
- height: 100px;
+ height: 200px;
 }
 
 #kerambit {
- height: 100px;
+ height: 200px;
 }
 
 footer {
     background-color: rgb(32, 32, 30); 
     color: #ffffff; 
     padding: 10px; 
-    text-align: center; 
+
 }
 
 footer ul {
