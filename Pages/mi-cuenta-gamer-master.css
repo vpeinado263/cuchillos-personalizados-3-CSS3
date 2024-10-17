@@ -1,37 +1,58 @@
-body {
-    font-family:"Ironwood", Arial, sans-serif ;
-    margin: 0;
-    padding: 0;
-    background-color: #111820;
-    color: #eaeaea;
+h1, h2 {
+    color: #2c3e50;
 }
-header {
-    background-color: #1e2731;
-    color: #eaeaea;
-    padding: 20px; 
-}
-h1 {
-    font-family: 'Times New Roman', Times, serif;
-}
-h2 {
-    font-family:Georgia, 'Times New Roman', Times, serifs;
-}
-input[type="text"] {
-    color:#111820;
-}
-input[type="password"] {
-    color: #111820;
-}
-input[type="tel"] {
-    color: #911313;
-}
-section {
+
+/* Encabezado */
+
+
+/* Main */
+main {
     padding: 20px;
 }
-hr + footer {
-    font-family: cursive;
+
+/* Sección del Formulario */
+section {
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin-bottom: 20px;
 }
-footer {
-    background-color: rgba(27, 27, 27, 0.8);
-    color: #ffffff;
+
+form p {
+    margin: 10px 0;
 }
+
+label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+input[type="email"],
+input[type="password"],
+input[type="tel"],
+textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+input[type="submit"] {
+    background-color: #3498db;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    padding: 10px;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+input[type="submit"]:hover {
+    background-color: #2980b9;
+}
+
+
+
