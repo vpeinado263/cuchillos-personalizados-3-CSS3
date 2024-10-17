@@ -13,7 +13,6 @@ El objetivo de esta tarea fue:
 ## Tegnologias Utilizadas
 - **HTML**: Estructura de las páginas web.
 - **CSS**: Estilos aplicados a los elementos HTML.
-- **Fuentes de Google**: Para seleccionar y aplicar diferentes fuentes tipográficas.
 - **Paleta de colores**: Utilizada para definir el diseño visual del sitio.
   
 ## Desafíos y Aprendizajes
