@@ -1,20 +1,48 @@
-body {
-    font-family:"Ironwood", Arial, sans-serif ;
-    background-color: #111820;
-    color: #eaeaea;
+h1, h2 {
+    color: #2c3e50;
 }
+
 header {
-    background-color: #1e2731;
-    color: #eaeaea;
+    color: rgb(17, 16, 16);
+    padding: 20px;
+    text-align: center;
 }
-hr + footer {
-    font-family: cursive;
+
+header a {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    font-weight: bold;
 }
-#herrero {
-    height: 400px;
-    width: 400px;
+
+article {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
 }
-footer {
-    background-color: rgba(27, 27, 27, 0.8);
-    color: #ffffff;
+
+article p {
+    line-height: 1.6;
 }
+
+
+
+figure {
+    text-align: center;
+    margin: 20px 0;
+}
+
+figure img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+}
+
+figcaption {
+    margin-top: 10px;
+    font-style: italic;
+    color: #666;
+}
+
