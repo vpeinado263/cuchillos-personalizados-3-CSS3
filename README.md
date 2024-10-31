@@ -35,6 +35,6 @@ Me di cuenta de que estaba repitiendo estilos en varias hojas CSS, lo que llevab
 
 **Solución**: Aprendí a crear una hoja de estilo global para estilos comunes y enlazarla junto con las hojas CSS específicas para cada página. Esto optimizó el código y mejoró la organización de mi proyecto.
 
-Puedes verlo en vivo aquí: [Tarea-3ra-clase-CSS-1](https://tarea-3-clase-css-1.vercel.app/)
+Puedes verlo en vivo aquí: [Tarea-3ra-clase-CSS-1](https://tarea-3-clase-css.vercel.app/index.html)
 
 
