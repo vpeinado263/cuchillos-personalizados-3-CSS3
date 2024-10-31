@@ -1,4 +1,4 @@
-# Tarea-3ra-clase-CSS-1
+# Tarea-3-clase-CSS
 En esta tercera tarea continué con el desarrollo del sitio web utilizando CSS para aplicar estilos a cada página HTML del proyecto.
 
 ## Descripcion de la Tarea
