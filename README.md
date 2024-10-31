@@ -1,4 +1,4 @@
-# Tarea-3ra-clase---CSS-1
+# Tarea-3ra-clase-CSS-1
 En esta tercera tarea continué con el desarrollo del sitio web utilizando CSS para aplicar estilos a cada página HTML del proyecto.
 
 ## Descripcion de la Tarea
@@ -13,7 +13,6 @@ El objetivo de esta tarea fue:
 ## Tegnologias Utilizadas
 - **HTML**: Estructura de las páginas web.
 - **CSS**: Estilos aplicados a los elementos HTML.
-- **Paleta de colores**: Utilizada para definir el diseño visual del sitio.
   
 ## Desafíos y Aprendizajes
 ### 1. Problemas con las rutas de archivos
@@ -36,6 +35,6 @@ Me di cuenta de que estaba repitiendo estilos en varias hojas CSS, lo que llevab
 
 **Solución**: Aprendí a crear una hoja de estilo global para estilos comunes y enlazarla junto con las hojas CSS específicas para cada página. Esto optimizó el código y mejoró la organización de mi proyecto.
 
-Puedes verlo en vivo aquí: [Tarea-3ra-clase---CSS-1](https://tarea-3-clase-css-1.vercel.app/)
+Puedes verlo en vivo aquí: [Tarea-3ra-clase-CSS-1](https://tarea-3-clase-css-1.vercel.app/)
 
 
