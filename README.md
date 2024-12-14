@@ -1,10 +1,10 @@
 # Tarea-3-clase-CSS
-En esta tercera tarea continué con el desarrollo del sitio web utilizando CSS para aplicar estilos a cada página HTML del proyecto.
+En esta tercera tarea continué con el desarrollo del sitio web utilizando CSS3 para aplicar estilos a cada página HTML del proyecto.
 
 ## Descripcion de la Tarea
 El objetivo de esta tarea fue:
 
--Crear una hoja de estilo CSS para cada página HTML.
+-Crear una hoja de estilo CSS3 para cada página HTML5.
 -Seleccionar y aplicar una o más fuentes de tecto al proyecto.
 -Definir una paleta de colores para el texto y el fondo de las páginas.
 -Usar comentarios en las hojas css para organizar y separar las secciones de código.
